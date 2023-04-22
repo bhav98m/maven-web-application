@@ -96,15 +96,15 @@
 	
 	    <repository>
 	      <id>nexus</id>
-	      <name>citibank Releases Nexus Repository</name>
-	      <url>http://13.233.196.142:9980/repository/citibank-release/
+	      <name>citibankapp Releases Nexus Repository</name>
+	      <url>http://13.232.187.12:8081/repository/citibankapp-release/
 </url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
-	      <name>citibank Snapshot Nexus Repository </name>
-	      <url>http://13.233.196.142:9980/repository/citibank-snapshot/</url>
+	      <name>citibankapp Snapshot Nexus Repository </name>
+	      <url>http://13.232.187.12:8081/repository/citibankapp-snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
